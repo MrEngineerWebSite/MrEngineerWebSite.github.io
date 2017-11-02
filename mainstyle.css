@@ -42,3 +42,13 @@ background-color:#62d2d3;
 {
 background-color:#7ce5e6;
 }
+#logo {
+    float:left;
+}
+#menu {
+    float:right;
+}
+#header {
+    clear: both;
+    overflow: auto;
+}
